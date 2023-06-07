@@ -1,0 +1,9 @@
+C:\Users\SENA\Documentos\proyecto restaurante\App_planilla\Negocio\bin\Debug\Negocio.dll
+C:\Users\SENA\Documentos\proyecto restaurante\App_planilla\Negocio\bin\Debug\Negocio.pdb
+C:\Users\SENA\Documentos\proyecto restaurante\App_planilla\Negocio\bin\Debug\Datos.dll
+C:\Users\SENA\Documentos\proyecto restaurante\App_planilla\Negocio\bin\Debug\Datos.pdb
+C:\Users\SENA\Documentos\proyecto restaurante\App_planilla\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\SENA\Documentos\proyecto restaurante\App_planilla\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Documentos\proyecto restaurante\App_planilla\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\SENA\Documentos\proyecto restaurante\App_planilla\Negocio\obj\Debug\Negocio.dll
+C:\Users\SENA\Documentos\proyecto restaurante\App_planilla\Negocio\obj\Debug\Negocio.pdb
